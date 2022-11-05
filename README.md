@@ -75,4 +75,4 @@ NodeJs + ExpressJs + MongoDB
 
 ## Made with ❤️
 
-by [adidoshi](https://github.com/adidoshi)
+by [ritwikchawla](https://github.com/ritwikchawla)
