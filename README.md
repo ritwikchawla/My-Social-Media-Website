@@ -10,7 +10,7 @@
 
 NodeJs + ExpressJs + MongoDB
 
-[Repository](https://github.com/adidoshi/social-media_backend) | [Postman Doc](https://documenter.getpostman.com/view/15329989/UVeDuTTm)
+[Repository] | [Postman Doc](https://documenter.getpostman.com/view/15329989/UVeDuTTm)
 
 ---
 
